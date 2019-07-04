@@ -1,0 +1,25 @@
+@CHARSET "UTF-8";
+#con{
+	
+	text-align: center;
+}
+.userlist{
+	width: 1150px;
+	margin-left: 90px;
+}
+.userlist table{
+	text-align: center;
+	width: 1150px;
+	height: 500px;
+}
+
+.userlist table tr td,.userlist table tr th{
+	border: 1px solid gray;
+}
+.roleid{
+	display: none;
+}
+a{
+	text-decoration: none;
+	color: gray;
+}

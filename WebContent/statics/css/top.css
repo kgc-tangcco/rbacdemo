@@ -1,0 +1,16 @@
+@CHARSET "UTF-8";
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body {
+	background-image: url("../images/logo.png");
+	background-repeat: no-repeat;
+	background-size: 300px,100px;
+	background-position:30px 10px;
+}
+#top{
+	margin-top:20px;
+	text-align:center;
+	float: right;
+}

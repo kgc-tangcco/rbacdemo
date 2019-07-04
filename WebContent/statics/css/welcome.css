@@ -1,0 +1,14 @@
+@CHARSET "UTF-8";
+*{
+	padding:0px;
+	margin:0px;
+}
+body{
+	background-image: url("../images/back.jpg");
+}
+p{
+	font-weight:bolder;
+	padding-left: 100px;
+	padding-top: 20px;
+	font-size: 60px;
+}

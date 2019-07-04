@@ -1,0 +1,9 @@
+@CHARSET "UTF-8";
+*{
+	margin:0px;
+	padding:0px;
+}
+body{
+	height: 10px;
+	padding-top: 5px;
+}
